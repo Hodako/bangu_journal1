@@ -1,1 +1,3 @@
-# bangu_journal1
+# Bangu Journal
+
+"""It is an opensource project"""
