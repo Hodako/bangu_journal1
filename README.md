@@ -1,3 +1,3 @@
 # Bangu Journal
 
-"""It is an opensource project"""
+**It is an opensource project**
